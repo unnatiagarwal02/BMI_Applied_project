@@ -1,0 +1,4 @@
+# Optional requirements for advanced notebook analysis
+pandas
+jupyter
+matplotlib
