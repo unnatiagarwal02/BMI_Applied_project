@@ -19,7 +19,7 @@ This project uses NHANES 2021–2023 style variables merged across multiple comp
 - **`Data_understanding.ipynb`**: main workflow notebook (merging, filters, cleaning recodes, LBXGH analysis + visualizations)
 - **`Sid_WIP.ipynb`**: work-in-progress notebook
 
-## What we have done so far (end-to-end workflow)
+## What we have dzone so far (end-to-end workflow)
 
 ### 1) Build the merged analysis dataset (`Data_understanding.ipynb`)
 In `Data_understanding.ipynb` we:
